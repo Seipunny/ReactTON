@@ -1198,4 +1198,4 @@ Values:
 `,Uce=as.div`
   max-width: 900px;
   margin: 0 auto;
-`;function Nce(){const{network:e}=Au();return Xt(Lce,{children:Xt(Uce,{children:_i(sg,{children:[_i(fu,{children:[Xt(_B,{}),Xt(ug,{children:e?e===$s.MAINNET?"mainnet":"testnet":"N/A"})]}),Xt(Rce,{}),Xt($ce,{}),Xt(Oce,{})]})})})}const Dce="https://raw.githubusercontent.com/ton-community/tutorials/main/03-client/test/public/tonconnect-manifest.json",qce=new DL({defaultOptions:{queries:{refetchOnWindowFocus:!1}}});y4.createRoot(document.getElementById("root")).render(Xt(UZ,{manifestUrl:Dce,children:Xt(iD,{client:qce,children:Xt(Nce,{})})}));
+`;function Nce(){const{network:e}=Au();return Xt(Lce,{children:Xt(Uce,{children:_i(sg,{children:[_i(fu,{children:[Xt(_B,{}),Xt(ug,{children:e?e===$s.MAINNET?"mainnet":"testnet":"N/A"})]}),Xt(Rce,{}),Xt($ce,{}),Xt(Oce,{})]})})})}const Dce="https://raw.githubusercontent.com/Seipunny/ReactTON/main/tonconnect-manifest.json",qce=new DL({defaultOptions:{queries:{refetchOnWindowFocus:!1}}});y4.createRoot(document.getElementById("root")).render(Xt(UZ,{manifestUrl:Dce,children:Xt(iD,{client:qce,children:Xt(Nce,{})})}));
